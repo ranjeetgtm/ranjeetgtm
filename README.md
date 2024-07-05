@@ -15,13 +15,14 @@ I love the challenge of finding problems and spending time to meet new people.
  
 
 ### Connect with me:
-ranjeetgtm69@yahoo.com
+
 
 <a href="https://www.instagram.com/ranjeet.gtm?igsh=MWNiZGZwcW5nd2Ficw=="><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Ran jeet | Instagram" width="21px"/></a>
 <a href="https://www.linkedin.com/in/ranjeet-gautam-712829317?trk=contact-info/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ran jeet | LinkedIn" width="21px"/></a>
 </br>
 
 If you have any question/feedback, please do not hesitate to reach out to me!
+ranjeetgtm69@yahoo.com
 
  I'm currently working on
 
