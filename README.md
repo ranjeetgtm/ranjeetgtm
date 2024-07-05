@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.reddit.com/u/ranjeetgtm/s/Fe22a2EX8i">Ranjeet</a> ðŸ‘‹
+Hi there, I'm <a href="https://www.reddit.com/u/ranjeetgtm/s/Fe22a2EX8i">Ranjeet</a>
 </h3>
 
 <h2 align="center">
@@ -63,8 +63,7 @@ Technical Skills
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-
-## ðŸ“« How to reach me:
+How to reach me:
 
 - <a href="https://www.reddit.com/u/ranjeetgtm/s/Fe22a2EX8i">Reddit</a> - @ranjeetgtm
 - <a href="https://discord.com/invite/4ujSuJjg">Discord</a> - @ranjeetgtm
