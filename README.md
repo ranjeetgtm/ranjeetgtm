@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJUQfCXXb7JzwcYgt3dGYnhmFiuWWHb-nOaQ&s" alt="my banner"></a>
+  <a href="/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHNjp5fHp7uxpgUTd194s5CYXBrvvtj1fXIw&s" alt="my banner"></a>
 </p>
 
 <h3 align="center">
