@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="/" target="_blank" rel="noreferrer"><img src="https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe" alt="my banner"></a>
+  <a href="/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJUQfCXXb7JzwcYgt3dGYnhmFiuWWHb-nOaQ&s" alt="my banner"></a>
 </p>
 
 <h3 align="center">
