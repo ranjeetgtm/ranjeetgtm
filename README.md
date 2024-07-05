@@ -14,14 +14,15 @@ I'm a student of computer science and information technology 
 I love the challenge of finding problems and spending time to meet new people.
  
 
-### ðŸ¤ Connect with me:
+### Connect with me:
 
 <a href="https://www.instagram.com/ranjeet.gtm?igsh=MWNiZGZwcW5nd2Ficw=="><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Ran jeet | Instagram" width="21px"/></a>
 <a href="https://www.linkedin.com/in/ranjeet-gautam-712829317?trk=contact-info/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ran jeet | LinkedIn" width="21px"/></a>
 </br>
-- ðŸ’¬ If you have any question/feedback, please do not hesitate to reach out to me!
 
-## ðŸ”­ I'm currently working on
+If you have any question/feedback, please do not hesitate to reach out to me!
+
+ I'm currently working on
 
 - My new projects
 - My linux config
@@ -29,14 +30,13 @@ I love the challenge of finding problems and spending time to meet new people.
 - My Rust Skill
 
 
-## ðŸŒ± I'm currently learning
+ I'm currently learning
 
 - Rust
 - Linux
 - Styled Components
   
-
-## ðŸ’¼ Technical Skills
+Technical Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
@@ -70,7 +70,8 @@ I love the challenge of finding problems and spending time to meet new people.
 - <a href="https://discord.com/invite/4ujSuJjg">Discord</a> - @ranjeetgtm
 - <a href="https://www.instagram.com/ranjeet.gtm?igsh=MWNiZGZwcW5nd2Ficw==">Instagram</a> - @ranjeet.gtm
 - <a href="https://www.facebook.com/ranjit.extra">Facebook</a> - @ranjeetgautam
-## ðŸ“ˆ GitHub Stats 
+- 
+ GitHub Stats 
 
 ![Ranjeet's GitHub](https://github-readme-stats.vercel.app/api?username=ranjeetgtm&show_icons=true&bg_color=00000000)
 
