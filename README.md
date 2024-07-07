@@ -79,7 +79,7 @@ How to reach me:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetgtm&layout=compact&bg_color=00000000)
 
-<a href="https://github.com/ranjeetgtm/github-readme-stats">
+<a href="https://github.com/ranjeetgtm/calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjeetgtm&repo=calculator&bg_color=00000000" />
 </a>
 
