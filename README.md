@@ -14,9 +14,6 @@ I love the challenge of finding problems and spending time to meet new people.
 </h2> 
 
 
-If you have any question/feedback, please do not hesitate to reach out to me!
-ranjitgautam693@gmail.com
-
 
 
 ### Socials
@@ -24,15 +21,6 @@ ranjitgautam693@gmail.com
 <p align="left"> <a href="https://www.github.com/ranjeetgtm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ranjeet.gtm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ranjeetgtm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
 
 
-
- 
-
-## 🤝 Connect with me:
-
-
-<a href="https://www.instagram.com/ranjeet.gtm?igsh=MWNiZGZwcW5nd2Ficw=="><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Ran jeet | Instagram" width="21px"/></a>
-<a href="https://www.linkedin.com/in/ranjeet-gautam-712829317?trk=contact-info/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ran jeet | LinkedIn" width="21px"/></a>
-</br>
 
 
 
@@ -98,6 +86,17 @@ ranjitgautam693@gmail.com
 <a href="https://github.com/ranjeetgtm/calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjeetgtm&repo=calculator&bg_color=00000000" />
 </a>
+
+## 🤝 Connect with me:
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ranjeet.gtm)
+- [![Facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIN=n&logoColor=white)](https://www.linkedin.com/in/ranjeetgtm)
+
+
+-If you have any question/feedback, please do not hesitate to reach out to me!
+ranjitgautam693@gmail.com
+
+
+
 
 <!--
 ranjeetgtm/ranjeetgtm is a âœ¨ special âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
