@@ -92,8 +92,21 @@ I love the challenge of finding problems and spending time to meet new people.
 - [![Facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIN=n&logoColor=white)](https://www.linkedin.com/in/ranjeetgtm)
 
 
--If you have any question/feedback, please do not hesitate to reach out to me!
+-💬If you have any question/feedback, please do not hesitate to reach out to me!
 ranjitgautam693@gmail.com
+
+
+
+## Profile Views
+
+[![Profile Views](https://img.shields.io/badge/Profile%20Views-100-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjeetgtm)
+
+## Follow Me
+
+[![Follow on Instagram](https://img.shields.io/badge/Follow-%40aayushxvf-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ranjeet.gtm)
+
+
+
 
 
 
