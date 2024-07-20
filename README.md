@@ -62,8 +62,19 @@ Technical Skills
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 
+How to reach me:
 
-## 📊 GitHub Stats
+- <a href="https://www.reddit.com/u/ranjeetgtm/s/Fe22a2EX8i">Reddit</a> - @ranjeetgtm
+- <a href="https://discord.com/invite/4ujSuJjg">Discord</a> - @ranjeetgtm
+- <a href="https://www.instagram.com/ranjeet.gtm?igsh=MWNiZGZwcW5nd2Ficw==">Instagram</a> - @ranjeet.gtm
+- <a href="https://www.facebook.com/ranjit.extra">Facebook</a> - @ranjeetgautam
+- 
+  ## 📊 GitHub Stats
+
+![Ranjeet's GitHub](https://github-readme-stats.vercel.app/api?username=ranjeetgtm&show_icons=true&bg_color=00000000)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetgtm&layout=compact&bg_color=00000000)
 
 
 
@@ -74,20 +85,6 @@ Technical Skills
 [![](https://raw.githubusercontent.com/ranjeetgtm/ranjeetgtm-/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ranjeetgtm/ranjeetgtm-/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-
-How to reach me:
-
-- <a href="https://www.reddit.com/u/ranjeetgtm/s/Fe22a2EX8i">Reddit</a> - @ranjeetgtm
-- <a href="https://discord.com/invite/4ujSuJjg">Discord</a> - @ranjeetgtm
-- <a href="https://www.instagram.com/ranjeet.gtm?igsh=MWNiZGZwcW5nd2Ficw==">Instagram</a> - @ranjeet.gtm
-- <a href="https://www.facebook.com/ranjit.extra">Facebook</a> - @ranjeetgautam
-- 
- GitHub Stats 
-
-![Ranjeet's GitHub](https://github-readme-stats.vercel.app/api?username=ranjeetgtm&show_icons=true&bg_color=00000000)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetgtm&layout=compact&bg_color=00000000)
 
 <a href="https://github.com/ranjeetgtm/calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjeetgtm&repo=calculator&bg_color=00000000" />
