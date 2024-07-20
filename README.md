@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHNjp5fHp7uxpgUTd194s5CYXBrvvtj1fXIw&s" alt="my banner"></a>
+  <a href="/" target="_blank" rel="noreferrer"><img src=""https://mir-s3-cdn-cf.behance.net/project_modules/1400/79731568097599.5b50bca477735.jpg" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -11,18 +11,26 @@ I'm a student of computer science and information technology 
 
 </h2> 
 
+### Socials
+
+<p align="left"> <a href="https://www.github.com/ranjeetgtm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ranjeet.gtm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ranjeetgtm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
+
+
+
 I love the challenge of finding problems and spending time to meet new people.
  
 
-### Connect with me:
+## 🤝 Connect with me:
 
 
 <a href="https://www.instagram.com/ranjeet.gtm?igsh=MWNiZGZwcW5nd2Ficw=="><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Ran jeet | Instagram" width="21px"/></a>
 <a href="https://www.linkedin.com/in/ranjeet-gautam-712829317?trk=contact-info/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Ran jeet | LinkedIn" width="21px"/></a>
 </br>
 
+
 If you have any question/feedback, please do not hesitate to reach out to me!
 ranjeetgtm69@yahoo.com
+
 
  ## 🔭 I'm currently working on
 
