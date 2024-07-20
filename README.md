@@ -103,7 +103,7 @@ ranjitgautam693@gmail.com
 
 ## Follow Me
 
-[![Follow on Instagram](https://img.shields.io/badge/Follow-%40aayushxvf-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ranjeet.gtm)
+[![Follow on Instagram](https://img.shields.io/badge/Follow-%40ranjeet.gtm-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ranjeet.gtm)
 
 
 
