@@ -24,20 +24,20 @@ I love the challenge of finding problems and spending time to meet new people.
 If you have any question/feedback, please do not hesitate to reach out to me!
 ranjeetgtm69@yahoo.com
 
- I'm currently working on
+ ## 🔭 I'm currently working on
 
 - My new projects
-- My linux config
 - My next blog
-- My Rust Skill
+- My python Skill
+- Editing
 
 
- I'm currently learning
+ ## 🌱 I'm currently learning
 
-- Rust
-- Linux
+- javascript 
+- React
 - Styled Components
-  
+- Editing
 
 ## 🧰 Technical Skills
 
@@ -55,27 +55,29 @@ ranjeetgtm69@yahoo.com
 
 
 
-How to reach me:
+## 📬 How to reach me:
 
-- <a href="https://www.reddit.com/u/ranjeetgtm/s/Fe22a2EX8i">Reddit</a> - @ranjeetgtm
-- <a href="https://discord.com/invite/4ujSuJjg">Discord</a> - @ranjeetgtm
-- <a href="https://www.instagram.com/ranjeet.gtm?igsh=MWNiZGZwcW5nd2Ficw==">Instagram</a> - @ranjeet.gtm
-- <a href="https://www.facebook.com/ranjit.extra">Facebook</a> - @ranjeetgautam
-- 
+-👾 <a href="https://www.reddit.com/u/ranjeetgtm/s/Fe22a2EX8i">Reddit</a> - @ranjeetgtm
+-💬 <a href="https://discord.com/invite/4ujSuJjg">Discord</a> - @ranjeetgtm
+-📸 <a href="https://www.instagram.com/ranjeet.gtm?igsh=MWNiZGZwcW5nd2Ficw==">Instagram</a> - @ranjeet.gtm
+-🌐<a href="https://ranjitgautam.com.np">website</a> - ranjitgautam.com.np
+
+
+
   ## 📊 GitHub Stats
-
-![Ranjeet's GitHub](https://github-readme-stats.vercel.app/api?username=ranjeetgtm&show_icons=true&bg_color=00000000)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetgtm&layout=compact&bg_color=00000000)
-
-
-
 
 
 [![](https://raw.githubusercontent.com/ranjeetgtm/ranjeetgtm-/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ranjeetgtm/ranjeetgtm-/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ranjeetgtm/ranjeetgtm-/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ranjeetgtm/ranjeetgtm-/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ranjeetgtm/ranjeetgtm-/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
+
+![Ranjeet's GitHub](https://github-readme-stats.vercel.app/api?username=ranjeetgtm&show_icons=true&bg_color=00000000)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetgtm&layout=compact&bg_color=00000000)
 
 
 
