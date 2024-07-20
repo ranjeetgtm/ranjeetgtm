@@ -9,7 +9,15 @@ Hi there, I'm <a href="https://www.reddit.com/u/ranjeetgtm/s/Fe22a2EX8i">Ranjeet
 <h2 align="center">
 I'm a student of computer science and information technology 
 
+I love the challenge of finding problems and spending time to meet new people.
+
 </h2> 
+
+
+If you have any question/feedback, please do not hesitate to reach out to me!
+ranjitgautam693@gmail.com
+
+
 
 ### Socials
 
@@ -17,7 +25,6 @@ I'm a student of computer science and information technology 
 
 
 
-I love the challenge of finding problems and spending time to meet new people.
  
 
 ## 🤝 Connect with me:
