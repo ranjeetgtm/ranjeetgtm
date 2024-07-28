@@ -60,8 +60,14 @@ I love the challenge of finding problems and spending time to meet new people.
 ## 📬 How to reach me:
 
 -👾 <a href="https://www.reddit.com/u/ranjeetgtm/s/Fe22a2EX8i">Reddit</a> - @ranjeetgtm
+
+
 -💬 <a href="https://discord.com/invite/4ujSuJjg">Discord</a> - @ranjeetgtm
+
+
 -📸 <a href="https://www.instagram.com/ranjeet.gtm?igsh=MWNiZGZwcW5nd2Ficw==">Instagram</a> - @ranjeet.gtm
+
+
 -🌐<a href="https://ranjitgautam.com.np">website</a> - ranjitgautam.com.np
 
 
