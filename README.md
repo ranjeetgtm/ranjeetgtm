@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="/" target="_blank" rel="noreferrer"><img src="https://www.shutterstock.com/image-vector/programming-software-development-web-page-600nw-1682028748.jpg" alt="my banner"></a>
+  <a href="/" target="_blank" rel="noreferrer"><img src="20240803_130241.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
