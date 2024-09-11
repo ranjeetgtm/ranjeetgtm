@@ -95,18 +95,19 @@ I'm a student of computer science and information technology 
 
 <h3 align="center">## 🤝 Connect with me:<p>
 	
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ranjeet.gtm)
-- [![Facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIN=n&logoColor=white)](https://www.linkedin.com/in/ranjeetgtm)</p></h3>
+	
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ranjeet.gtm)
+ [![Facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIN=n&logoColor=white)](https://www.linkedin.com/in/ranjeetgtm)</p></h3>
 
 
--💬If you have any question/feedback, please do not hesitate to reach out to me!
-ranjitgautam693@gmail.com
+<h3 align="center"> -💬If you have any question/feedback, please do not hesitate to reach out to me!
+ranjitgautam693@gmail.com</h3>
 
 
 
-## Profile Views
+<h3 align="center">## Profile Views<p>
 
-[![Profile Views](https://img.shields.io/badge/Profile%20Views-100-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjeetgtm)
+[![Profile Views](https://img.shields.io/badge/Profile%20Views-147-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjeetgtm)</p></h3>
 
 ## Follow Me
 
