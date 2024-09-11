@@ -23,7 +23,7 @@ I'm a student of computer science and information technology 
 
 
 
-<h3 align="center">### Social
+<h3 align="center">My Social
 <br>
 
 
