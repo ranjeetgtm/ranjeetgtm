@@ -48,7 +48,7 @@ I'm a student of computer science and information technology 
 
 <h3 align="center">### GitHub Stats</h3>
 
-<p align="center"><img src="metricss.svg" /></p>
+<p align="center"><img src="github-metrics.svg" /></p>
 
 
 
