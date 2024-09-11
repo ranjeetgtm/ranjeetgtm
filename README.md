@@ -90,12 +90,13 @@ I'm a student of computer science and information technology 
 
 
 <a href="https://github.com/ranjeetgtm/calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjeetgtm&repo=calculator&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjeetgtm&repo=collegewebsite&bg_color=00000000" />
 </a></p></h3>
 
-## 🤝 Connect with me:
+<h3 align="center">## 🤝 Connect with me:<p>
+	
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ranjeet.gtm)
-- [![Facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIN=n&logoColor=white)](https://www.linkedin.com/in/ranjeetgtm)
+- [![Facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIN=n&logoColor=white)](https://www.linkedin.com/in/ranjeetgtm)</p></h3>
 
 
 -💬If you have any question/feedback, please do not hesitate to reach out to me!
