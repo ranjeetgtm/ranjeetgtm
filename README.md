@@ -74,7 +74,7 @@ I'm a student of computer science and information technology 
 <p align="center">-📸 <a href="https://www.instagram.com/ranjeet.gtm?igsh=MWNiZGZwcW5nd2Ficw==">Instagram</a> - @ranjeet.gtm</p>
 
 
-<p align="center">-🌐<a href="https://ranjitgautam.com.np">website</a> - ranjitgautam.com.np</p>
+<p align="center">-🌐 <a href="https://ranjitgautam.com.np">website</a> - ranjitgautam.com.np</p>
 
 
 
