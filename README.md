@@ -66,14 +66,8 @@ I'm a student of computer science and information technology 
 <h3 align="center">## 📬 How to reach me:</h3>
 
 <p align="center">-👾 <a href="https://www.reddit.com/u/ranjeetgtm/s/Fe22a2EX8i">Reddit</a> - @ranjeetgtm</p>
-
-
 <p align="center">-💬 <a href="https://discord.com/invite/4ujSuJjg">Discord</a> - @ranjeetgtm</p>
-
-
 <p align="center">-📸 <a href="https://www.instagram.com/ranjeet.gtm?igsh=MWNiZGZwcW5nd2Ficw==">Instagram</a> - @ranjeet.gtm</p>
-
-
 <p align="center">-🌐 <a href="https://ranjitgautam.com.np">website</a> - ranjitgautam.com.np</p>
 
 
