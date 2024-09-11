@@ -111,7 +111,7 @@ ranjitgautam693@gmail.com
 [![Follow on Instagram](https://img.shields.io/badge/Follow-%40ranjeet.gtm-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ranjeet.gtm)<svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
 
 
-[<img align="right" alt="https://github.com/ranjeetgtm/ranjeetgtm/blob/main/ranjeettt.png">](#)
+[<img align="right" alt="https://github.com/ranjeetgtm/ranjeetgtm/blob/main/ranjeettt.png">
 
 
 
