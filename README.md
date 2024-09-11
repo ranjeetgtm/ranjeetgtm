@@ -115,6 +115,12 @@ ranjitgautam693@gmail.com
 [<img align="right" alt="🦑" src="https://github.com/lowlighter/lowlighter/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
 
 
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/ranjeetgautam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
+
 
 <p align="center">
   <img src="https://github.com/ranjeetgtm/ranjeetgtm/blob/main/metrics.svg">
