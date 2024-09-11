@@ -48,12 +48,12 @@ I'm a student of computer science and information technology 
 <p align="center">- Editing</p>
 
 
- ## 🌱 I'm currently learning
+<h3 align="center"> ## 🌱 I'm currently learning</h3>
 
-- javascript 
-- React
-- Styled Components
-- Editing
+<p align="center">- javascript </p>
+<p align="center">- React</p>
+<p align="center">- Styled Components</p>
+<p align="center">- Editing</p>
 
 ## 🧰 Technical Skills
 
