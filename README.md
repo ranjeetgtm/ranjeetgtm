@@ -122,7 +122,7 @@ I'm a student of computer science and information technology 
 [![Follow on Instagram](https://img.shields.io/badge/Follow-%40ranjeet.gtm-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ranjeet.gtm)<svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg"></p></h3>
 
 
-[<img align="right" alt="🦑" src="https://https://github.com/ranjeetgtm/ranjeetgtm/blob/main/rg.png">](#)
+[<img align="right" alt="🦑" src="https://github.com/ranjeetgtm/ranjeetgtm/blob/main/github.png">](#)
 
 <h3 align="center">-💬If you have any question/feedback, please do not hesitate to reach out to me! 
  ranjitgautam893@gmail.com</h3>
