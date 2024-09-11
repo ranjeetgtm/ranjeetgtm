@@ -71,6 +71,24 @@ I'm a student of computer science and information technology 
 <p align="center">-🌐 <a href="https://ranjitgautam.com.np">website</a> - ranjitgautam.com.np</p>
 
 
+<h3 align="center"> ## 🔭 I'm currently working on </h3>
+
+
+	
+<p align="center">- My new projects</p>
+<p align="center">- My next blog</p>
+<p align="center">- My python Skill</p>
+<p align="center">- Editing</p>
+
+
+<h3 align="center"> ## 🌱 I'm currently learning</h3>
+
+<p align="center">- javascript </p>
+<p align="center">- React</p>
+<p align="center">- Styled Components</p>
+<p align="center">- Editing</p> 
+
+
 
  <h3 align="center"> ## 📊 GitHub Stats<p>
 
