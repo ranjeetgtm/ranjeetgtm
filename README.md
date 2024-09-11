@@ -40,12 +40,12 @@ I'm a student of computer science and information technology 
 
 <h3 align="center"> ## 🔭 I'm currently working on </h3>
 
-<p align="center"
+
 	
-- My new projects
+<p align="center">- My new projects</p>>
 - My next blog
 - My python Skill
-- Editing</p>
+- Editing
 
 
  ## 🌱 I'm currently learning
