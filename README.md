@@ -38,7 +38,7 @@ I'm a student of computer science and information technology 
 
 
 
- ## 🔭 I'm currently working on
+<h3 align="center"> ## 🔭 I'm currently working on
 
 - My new projects
 - My next blog
