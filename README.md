@@ -46,7 +46,7 @@ I'm a student of computer science and information technology 
 
 
 
-### GitHub Stats
+<h3 align="center">### GitHub Stats</h3>
 
 <p align="center"><img src="metricss.svg" /></p>
 
