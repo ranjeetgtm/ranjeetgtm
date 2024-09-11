@@ -100,8 +100,9 @@ I'm a student of computer science and information technology 
  [![Facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIN=n&logoColor=white)](https://www.linkedin.com/in/ranjeetgtm)</p></h3>
 
 
-<h3 align="center"> -💬If you have any question/feedback, please do not hesitate to reach out to me!</h3><p>
-ranjitgautam693@gmail.com</p>
+ 
+<h3 align="center"> -💬If you have any question/feedback, please do not hesitate to reach out to me! 
+ <a href="ranjitgautam893@gmail.com"></h3>
 
 
 
