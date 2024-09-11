@@ -55,10 +55,10 @@ I'm a student of computer science and information technology 
 <p align="center">- Styled Components</p>
 <p align="center">- Editing</p>
 
-<h3 align="center">## 🧰 Technical Skills
+<h3 align="center">## 🧰 Technical Skills <p align="center">
 	
   [![My Skills](https://skillicons.dev/icons?i=c,html,css,javascript)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=figma,react,git,github)](https://skillicons.dev)</h3>
+[![My Skills](https://skillicons.dev/icons?i=figma,react,git,github)](https://skillicons.dev)</p></h3>
 
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
