@@ -42,10 +42,10 @@ I'm a student of computer science and information technology 
 
 
 	
-<p align="center">- My new projects</p>
-<p align="center">- My next blog</p>
-<p align="center">- My python Skill</p>
-<p align="center">- Editing</p>
+<p1 align="center">- My new projects</p1>
+<p1 align="center">- My next blog</p1>
+<p1 align="center">- My python Skill</p1>
+<p1 align="center">- Editing</p1>
 
 
  ## 🌱 I'm currently learning
