@@ -85,13 +85,13 @@ I'm a student of computer science and information technology 
 ![Ranjeet's GitHub](https://github-readme-stats.vercel.app/api?username=ranjeetgtm&show_icons=true&bg_color=00000000)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetgtm&layout=compact&bg_color=00000000)</p></h3>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetgtm&layout=compact&bg_color=00000000)
 
 
 
 <a href="https://github.com/ranjeetgtm/calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjeetgtm&repo=calculator&bg_color=00000000" />
-</a>
+</a></p></h3>
 
 ## 🤝 Connect with me:
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ranjeet.gtm)
