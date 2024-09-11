@@ -72,12 +72,12 @@ I'm a student of computer science and information technology 
 
 
 
-  ## 📊 GitHub Stats
+ <h3 align="center"> ## 📊 GitHub Stats
 
 
 [![](https://raw.githubusercontent.com/ranjeetgtm/ranjeetgtm-/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ranjeetgtm/ranjeetgtm-/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ranjeetgtm/ranjeetgtm-/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ranjeetgtm/ranjeetgtm-/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ranjeetgtm/ranjeetgtm-/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ranjeetgtm/ranjeetgtm-/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ranjeetgtm/ranjeetgtm-/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)</h3>
 
 
 
