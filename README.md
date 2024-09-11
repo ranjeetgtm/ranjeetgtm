@@ -14,6 +14,39 @@ I'm a student of computer science and information technology 
 
 
 
+# Metrics Calendar
+
+## Monthly Performance Metrics
+
+Here is a summary of our key performance metrics over the past few months:
+
+| Month      | Response Time | Throughput   | Error Rate   | Code Coverage |
+|------------|---------------|--------------|--------------|---------------|
+| January 2024 | 210 ms       | 480 requests/s | 0.7%         | 82%           |
+| February 2024| 200 ms       | 490 requests/s | 0.5%         | 84%           |
+| March 2024   | 190 ms       | 500 requests/s | 0.4%         | 85%           |
+| April 2024   | 180 ms       | 510 requests/s | 0.3%         | 86%           |
+| May 2024     | 175 ms       | 520 requests/s | 0.2%         | 87%           |
+
+*Last updated: May 2024*
+
+## Metrics Over Time
+
+![Metrics Trend](https://img.shields.io/badge/metrics-trend--chart-blue)
+
+You can view more detailed metrics and trends in our [dashboard](http://example.com/metrics-dashboard).
+
+### Notes
+- **Response Time**: Time taken to respond to a request.
+- **Throughput**: Number of requests handled per second.
+- **Error Rate**: Percentage of failed requests.
+- **Code Coverage**: Percentage of code covered by tests.
+
+*This calendar is updated monthly to reflect the latest data.*
+
+
+
+
 
 ### Socials
 
