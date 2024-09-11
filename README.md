@@ -103,8 +103,6 @@ I'm a student of computer science and information technology 
 
 
  
-<h3 align="center">-💬If you have any question/feedback, please do not hesitate to reach out to me! 
- ranjitgautam893@gmail.com</h3>
 
 
 
@@ -118,6 +116,11 @@ I'm a student of computer science and information technology 
 
 
 [<img align="right" alt="🦑" src="https://github.com/ranjeetgtm/ranjeetgtm/blob/main/github.png">](#)
+
+<h3 align="center">-💬If you have any question/feedback, please do not hesitate to reach out to me! 
+ ranjitgautam893@gmail.com</h3>
+
+
 
 
 
