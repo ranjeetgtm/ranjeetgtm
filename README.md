@@ -110,17 +110,13 @@ I'm a student of computer science and information technology 
 
 [![Profile Views](https://img.shields.io/badge/Profile%20Views-147-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjeetgtm)</p></h3>
 
-## Follow Me
+<h3 align="center">## Follow Me<p>
 
-[![Follow on Instagram](https://img.shields.io/badge/Follow-%40ranjeet.gtm-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ranjeet.gtm)<svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg">
+[![Follow on Instagram](https://img.shields.io/badge/Follow-%40ranjeet.gtm-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ranjeet.gtm)<svg fill="none" viewBox="0 0 800 50" width="800" height="50" xmlns="http://www.w3.org/2000/svg"></p></h3>
 
 
 [<img align="right" alt="🦑" src="https://github.com/lowlighter/lowlighter/assets/22963968/f03a6539-5f5e-4e29-8cc5-8f2138660440">](#)
 
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/ranjeetgtm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 
