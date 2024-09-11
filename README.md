@@ -48,7 +48,7 @@ I'm a student of computer science and information technology 
 
 ### GitHub Stats
 
-<p align="center"><img src="https://raw.githubusercontent.com/ranjeetgtm/ranjeetgtm/main/github-metricss.svg" /></p>
+<p align="center"><img src="metricss.svg" /></p>
 
 
 
