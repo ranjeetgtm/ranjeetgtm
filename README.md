@@ -112,6 +112,6 @@ ranjitgautam693@gmail.com
 
 
 <p align="center">
-  <img src=">
+  <img src="https://github.com/ranjeetgtm/ranjeetgtm/blob/main/metrics.svg">
 </p
 	
