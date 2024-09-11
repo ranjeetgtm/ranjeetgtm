@@ -110,11 +110,5 @@ ranjitgautam693@gmail.com
 [![Follow on Instagram](https://img.shields.io/badge/Follow-%40ranjeet.gtm-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ranjeet.gtm)
 
 
-|Generic badge|
-
-.. |Generic badge| image:: https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg
-   :target:
-
-
 
 
