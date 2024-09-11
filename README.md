@@ -61,32 +61,20 @@ I'm a student of computer science and information technology 
 [![My Skills](https://skillicons.dev/icons?i=figma,react,git,github)](https://skillicons.dev)</p></h3>
 
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![Styled-Components](https://img.shields.io/badge/-Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
+<h3 align="center">## 📬 How to reach me:</h3>
 
-## 📬 How to reach me:
-
--👾 <a href="https://www.reddit.com/u/ranjeetgtm/s/Fe22a2EX8i">Reddit</a> - @ranjeetgtm
-
-
--💬 <a href="https://discord.com/invite/4ujSuJjg">Discord</a> - @ranjeetgtm
+<p align="center">-👾 <a href="https://www.reddit.com/u/ranjeetgtm/s/Fe22a2EX8i">Reddit</a> - @ranjeetgtm</p>
 
 
--📸 <a href="https://www.instagram.com/ranjeet.gtm?igsh=MWNiZGZwcW5nd2Ficw==">Instagram</a> - @ranjeet.gtm
+<p align="center">-💬 <a href="https://discord.com/invite/4ujSuJjg">Discord</a> - @ranjeetgtm</p>
 
 
--🌐<a href="https://ranjitgautam.com.np">website</a> - ranjitgautam.com.np
+<p align="center">-📸 <a href="https://www.instagram.com/ranjeet.gtm?igsh=MWNiZGZwcW5nd2Ficw==">Instagram</a> - @ranjeet.gtm</p>
+
+
+<p align="center">-🌐<a href="https://ranjitgautam.com.np">website</a> - ranjitgautam.com.np</p>
 
 
 
