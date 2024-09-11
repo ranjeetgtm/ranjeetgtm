@@ -48,6 +48,8 @@ I'm a student of computer science and information technology 
 
 ### GitHub Stats
 
+https://github.com/ranjeetgtm/ranjeetgtm/blob/main/metricss.svg
+
 
 
 
