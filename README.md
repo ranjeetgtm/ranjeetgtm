@@ -1,6 +1,9 @@
+
 <p align="center">
-  <a href="/" target="_blank" rel="noreferrer"><img src="20240803_130241.png" alt="my banner"></a>
+  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="200px">
 </p>
+
+<h1 align="center"> <a href="https://prepverse.github.io"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&pause=1000&color=F74609FF&center=true&vCenter=true&repeat=false&width=500&lines=Hello++%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!%2C+I'm+Ranjeet" alt="Typing SVG" /></a></h1>
 
 <h3 align="center">
 Hi there, I'm <a href="https://www.reddit.com/u/ranjeetgtm/s/Fe22a2EX8i">Ranjeet</a>
