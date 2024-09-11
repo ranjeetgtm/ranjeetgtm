@@ -55,8 +55,8 @@ I'm a student of computer science and information technology 
 <p align="center">- Styled Components</p>
 <p align="center">- Editing</p>
 
-## 🧰 Technical Skills
-<h1 align="center
+<h3 align="center">## 🧰 Technical Skills</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=c,html,css,javascript)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma,react,git,github)](https://skillicons.dev)
 
