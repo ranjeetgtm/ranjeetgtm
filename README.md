@@ -89,7 +89,7 @@ I'm a student of computer science and information technology 
 
 
 
-<a href="https://github.com/ranjeetgtm/calculator">
+<a href="https://github.com/ranjeetgtm/collegewebsite">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjeetgtm&repo=collegewebsite&bg_color=00000000" />
 </a></p></h3>
 
