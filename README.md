@@ -56,6 +56,7 @@ I'm a student of computer science and information technology 
 <p align="center">- Editing</p>
 
 ## 🧰 Technical Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,git,github)](https://skillicons.dev)
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
