@@ -54,12 +54,12 @@ I'm a student of computer science and information technology 
 
 
 
-<h3 align="center">## 📬 How to reach me:</h3>
+<h3 align="right">## 📬 How to reach me:</h3>
 
-<p align="center">-👾 <a href="https://www.reddit.com/u/ranjeetgtm/s/Fe22a2EX8i">Reddit</a> - @𝓻𝓪𝓷𝓳𝓮𝓮𝓽𝓰𝓽𝓶</p>
-<p align="center">-💬 <a href="https://discord.com/invite/4ujSuJjg">Discord</a> - @𝓻𝓪𝓷𝓳𝓮𝓮𝓽𝓰𝓽𝓶</p>
-<p align="center">-📸 <a href="https://www.instagram.com/ranjeet.gtm?igsh=MWNiZGZwcW5nd2Ficw==">Instagram</a> - @𝓻𝓪𝓷𝓳𝓮𝓮𝓽.𝓰𝓽𝓶</p>
-<p align="center">-🌐 <a href="https://ranjitgautam.com.np">website</a> -𝓻𝓪𝓷𝓳𝓲𝓽𝓰𝓪𝓾𝓽𝓪𝓶.𝓬𝓸𝓶.𝓷𝓹</p>
+<p align="right">-👾 <a href="https://www.reddit.com/u/ranjeetgtm/s/Fe22a2EX8i">Reddit</a> - @𝓻𝓪𝓷𝓳𝓮𝓮𝓽𝓰𝓽𝓶</p>
+<p align="right">-💬 <a href="https://discord.com/invite/4ujSuJjg">Discord</a> - @𝓻𝓪𝓷𝓳𝓮𝓮𝓽𝓰𝓽𝓶</p>
+<p align="right">-📸 <a href="https://www.instagram.com/ranjeet.gtm?igsh=MWNiZGZwcW5nd2Ficw==">Instagram</a> - @𝓻𝓪𝓷𝓳𝓮𝓮𝓽.𝓰𝓽𝓶</p>
+<p align="right">-🌐 <a href="https://ranjitgautam.com.np">website</a> -𝓻𝓪𝓷𝓳𝓲𝓽𝓰𝓪𝓾𝓽𝓪𝓶.𝓬𝓸𝓶.𝓷𝓹</p>
 
 
 <h3 align="center"> ## 🔭 I'm currently working on </h3>         
