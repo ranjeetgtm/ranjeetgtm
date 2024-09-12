@@ -80,7 +80,7 @@ I'm a student of computer science and information technology 
 <p align="right">-𝐸𝒹𝒾𝓉𝒾𝓃𝑔</p> 
 
 
-[<img align="right" alt="🦑" src="https://github.com/ranjeetgtm/ranjeetgtm/blob/main/gif.gif">](#)
+[<img align="center" alt="🦑" src="https://github.com/ranjeetgtm/ranjeetgtm/blob/main/gif.gif">](#)
 
 
 
@@ -92,7 +92,7 @@ I'm a student of computer science and information technology 
 
  
 
-<h1 align="left">
+<h1 align="center">
 
  
 ![Ranjeet's GitHub](https://github-readme-stats.vercel.app/api?username=ranjeetgtm&show_icons=true&bg_color=00000000)
