@@ -124,10 +124,8 @@ I'm a student of computer science and information technology 
 
 
 
-[<img align="left"https://github.com/ranjeetgtm/ranjeetgtm/blob/main/gif.gif">](#)
 
-[<img align="right" alt="🦑" src="https://github.com/ranjeetgtm/ranjeetgtm/blob/main/gif.gif">](#)
-
+[<img align="center" alt="🦑" src="https://github.com/ranjeetgtm/ranjeetgtm/blob/main/gif.gif">](#)
 
 
 
@@ -135,8 +133,9 @@ I'm a student of computer science and information technology 
 
 
 
-<p align="right">-💬If you have any question/feedback, please do not hesitate to reach out to me! 
- ranjitgautam893@gmail.com</p>
+
+<h2 align="right">-💬If you have any question/feedback, please do not hesitate to reach out to me! 
+ ranjitgautam893@gmail.com</h2>
 
 
 
