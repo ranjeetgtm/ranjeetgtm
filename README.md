@@ -138,7 +138,7 @@ s
 
 
 
-<h2 align="center">-💬If you have any question/feedback, please do not hesitate to reach out to me! ranjitgautam893@gmail.com</h2>
+<h2 align="center">-💬If you have any question/feedback, please do not hesitate to reach out to me! ranjitgautam693@gmail.com</h2>
 
 
 
