@@ -52,7 +52,7 @@ I'm a student of computer science and information technology 
 
 
 
-<div align="left">
+<img align="right">
   
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
@@ -76,7 +76,7 @@ I'm a student of computer science and information technology 
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
   
-</div>
+</img>
 
 
 
