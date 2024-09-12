@@ -126,7 +126,7 @@ I'm a student of computer science and information technology 
 
 
 
-[<img align="right" alt="🦑" src="https://github.com/ranjeetgtm/ranjeetgtm/blob/main/ranzeet.jpg">](#)
+[<img align="left" alt="🦑" src="https://github.com/ranjeetgtm/ranjeetgtm/blob/main/ranzeet.jpg">](#)
 
 
 
