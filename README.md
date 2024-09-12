@@ -70,12 +70,12 @@ I'm a student of computer science and information technology 
 
 
 
-<h3 align="center"> ## 🌱 I'm currently learning</h3>
+<h3 align="left"> ## 🌱 I'm currently learning</h3>
 
-<p align="center">- javascript </p>
-<p align="center">- React</p>
-<p align="center">- Styled Components</p>
-<p align="center">- Editing</p> 
+<p align="left">-𝒿𝒶𝓋𝒶𝓈𝒸𝓇𝒾𝓅𝓉 </p>
+<p align="left">- 𝑅𝑒𝒶𝒸𝓉</p>
+<p align="left">- 𝒮𝓉𝓎𝓁𝑒𝒹 𝒞𝑜𝓂𝓅𝑜𝓃𝑒𝓃𝓉𝓈</p>
+<p align="left">-𝐸𝒹𝒾𝓉𝒾𝓃𝑔</p> 
 
 
 
