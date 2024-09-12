@@ -54,7 +54,7 @@ I'm a student of computer science and information technology 
 
 <div align="center">
   
-```diff
+
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+                            
 @@       o o                                           @@
 @@       | |                                           @@
