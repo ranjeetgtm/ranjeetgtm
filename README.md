@@ -134,8 +134,7 @@ I'm a student of computer science and information technology 
 
 
 
-<h2 align="right">-💬If you have any question/feedback, please do not hesitate to reach out to me! 
- ranjitgautam893@gmail.com</h2>
+<h2 align="center">-💬If you have any question/feedback, please do not hesitate to reach out to me! ranjitgautam893@gmail.com</h2>
 
 
 
