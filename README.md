@@ -95,7 +95,7 @@ I'm a student of computer science and information technology 
 <h1 align="center">
 
  
-![Ranjeet's GitHub](https://github-readme-stats.vercel.app/api?username=ranjeetgtm&show_icons=true&bg_color=00000000)  [<img align="center" alt="🦑" src="https://github.com/ranjeetgtm/ranjeetgtm/blob/main/gif.gif">](#)
+![Ranjeet's GitHub](https://github-readme-stats.vercel.app/api?username=ranjeetgtm&show_icons=true&bg_color=00000000)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetgtm&layout=compact&bg_color=00000000)
