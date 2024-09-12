@@ -126,6 +126,10 @@ I'm a student of computer science and information technology 
 
 [<img align="left" alt="🦑" ">](#)
 
+<a href="https://discord.rg/dqZxzu2H">
+ <img alt="Discord activity card" src="https://discord-activity.deno.dev/api/544164729354977282?idleMessage=Just%20chillin'%20at%20the%20moment&cache=none" align="right" />
+</a>
+
 
 
 
