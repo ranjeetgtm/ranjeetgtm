@@ -82,7 +82,6 @@ I'm a student of computer science and information technology 
 <p align="center">-𝐸𝒹𝒾𝓉𝒾𝓃𝑔</p> 
 
 
-[<img align="center" alt="🦑" src="https://github.com/ranjeetgtm/ranjeetgtm/blob/main/gif.gif">](#)
 
 
 
