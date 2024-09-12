@@ -132,7 +132,7 @@ I'm a student of computer science and information technology 
 
 
 
-<p align="center">-💬If you have any question/feedback, please do not hesitate to reach out to me! 
+<p align="right">-💬If you have any question/feedback, please do not hesitate to reach out to me! 
  ranjitgautam893@gmail.com</p>
 
 
