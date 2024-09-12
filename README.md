@@ -120,13 +120,13 @@ I'm a student of computer science and information technology 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjeetgtm&layout=compact&bg_color=00000000)
-</h1>
+
 
 
 
 <a href="https://github.com/ranjeetgtm/collegewebsite">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjeetgtm&repo=collegewebsite&bg_color=00000000" />
-</a></p></h3>
+</a></h1>
 
 <h3 align="center">## 🤝 Connect with me:<p>
 	
