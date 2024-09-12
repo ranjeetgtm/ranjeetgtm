@@ -122,6 +122,11 @@ I'm a student of computer science and information technology 
 
 [<img align="right" alt="🦑" src="https://github.com/ranjeetgtm/ranjeetgtm/blob/main/github.png">](#)
 
+[<img align="right" alt="🦑" src="https://github.com/ranjeetgtm/ranjeetgtm/blob/main/ranzeet.jpg">](#)
+
+
+
+"https://github.com/ranjeetgtm/ranjeetgtm/blob/main/ranzeet.jpg
 
 
 <h3 align="center">-💬If you have any question/feedback, please do not hesitate to reach out to me! 
