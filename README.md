@@ -64,12 +64,12 @@ I'm a student of computer science and information technology 
 <p align="center">-🌐 <a href="https://ranjitgautam.com.np">website</a> -𝓻𝓪𝓷𝓳𝓲𝓽𝓰𝓪𝓾𝓽𝓪𝓶.𝓬𝓸𝓶.𝓷𝓹</p>
 
 
-<h3 align="center"> ## 🔭 I'm currently working on </h3>   <h3 align="right"> ## 🌱 I'm currently learning</h3>
+<h3 align="center"> ## 🔭 I'm currently working on </h3>   
       
-<p align="center">- 𝑀𝓎 𝓃𝑒𝓌 𝓅𝓇𝑜𝒿𝑒𝒸𝓉𝓈</p>                   <p align="center">-𝒿𝒶𝓋𝒶𝓈𝒸𝓇𝒾𝓅𝓉 </p>       
-<p align="center">- 𝑀𝓎 𝓃𝑒𝓍𝓉 𝒷𝓁𝑜𝑔</p>                       <p align="center">- 𝑅𝑒𝒶𝒸𝓉</p>       
-<p align="center">-𝑀𝓎 𝓅𝓎𝓉𝒽𝑜𝓃 𝒮𝓀𝒾𝓁𝓁</p>                    <p align="center">- 𝒮𝓉𝓎𝓁𝑒𝒹 𝒞𝑜𝓂𝓅𝑜𝓃𝑒𝓃𝓉𝓈</p>      
-<p align="center">-𝐸𝒹𝒾𝓉𝒾𝓃𝑔 </p>                              <p align="center">-𝐸𝒹𝒾𝓉𝒾𝓃𝑔</p> 
+<p align="center">- 𝑀𝓎 𝓃𝑒𝓌 𝓅𝓇𝑜𝒿𝑒𝒸𝓉𝓈</p>                         
+<p align="center">- 𝑀𝓎 𝓃𝑒𝓍𝓉 𝒷𝓁𝑜𝑔</p>                           
+<p align="center">-𝑀𝓎 𝓅𝓎𝓉𝒽𝑜𝓃 𝒮𝓀𝒾𝓁𝓁</p>                      
+<p align="center">-𝐸𝒹𝒾𝓉𝒾𝓃𝑔 </p>                              
     
 
 
