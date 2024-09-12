@@ -74,12 +74,12 @@ I'm a student of computer science and information technology 
 
 
 
-<h3 align="right"> ## 🌱 I'm currently learning</h3>
+<h3 align="center"> ## 🌱 I'm currently learning</h3>
 
-<p align="right">-𝒿𝒶𝓋𝒶𝓈𝒸𝓇𝒾𝓅𝓉 </p>
-<p align="right">- 𝑅𝑒𝒶𝒸𝓉</p>
-<p align="right">- 𝒮𝓉𝓎𝓁𝑒𝒹 𝒞𝑜𝓂𝓅𝑜𝓃𝑒𝓃𝓉𝓈</p>
-<p align="right">-𝐸𝒹𝒾𝓉𝒾𝓃𝑔</p> 
+<p align="center">-𝒿𝒶𝓋𝒶𝓈𝒸𝓇𝒾𝓅𝓉 </p>
+<p align="center">- 𝑅𝑒𝒶𝒸𝓉</p>
+<p align="center">- 𝒮𝓉𝓎𝓁𝑒𝒹 𝒞𝑜𝓂𝓅𝑜𝓃𝑒𝓃𝓉𝓈</p>
+<p align="center">-𝐸𝒹𝒾𝓉𝒾𝓃𝑔</p> 
 
 
 [<img align="center" alt="🦑" src="https://github.com/ranjeetgtm/ranjeetgtm/blob/main/gif.gif">](#)
