@@ -92,7 +92,7 @@ I'm a student of computer science and information technology 
 
  
 
-<h1 align="center">
+<h1 align="left">
 
  
 ![Ranjeet's GitHub](https://github-readme-stats.vercel.app/api?username=ranjeetgtm&show_icons=true&bg_color=00000000)
