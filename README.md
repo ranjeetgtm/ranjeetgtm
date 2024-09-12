@@ -80,6 +80,11 @@ I'm a student of computer science and information technology 
 <p align="right">-𝐸𝒹𝒾𝓉𝒾𝓃𝑔</p> 
 
 
+[<img align="right" alt="🦑" src="https://github.com/ranjeetgtm/ranjeetgtm/blob/main/gif.gif">](#)
+
+
+
+
 
 
 
