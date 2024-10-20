@@ -58,18 +58,16 @@ I'm a student of computer science and information technology 
 
 <h3 align="center">## 📬 How to reach me:</h3>
 
-<p align="center">-👾 <a href="https://www.reddit.com/u/ranjeetgtm/s/Fe22a2EX8i">Reddit</a> - @𝙧𝙖𝙣𝙟𝙚𝙚𝙩𝙜𝙩𝙢</p>
-<p align="center">💬 <a href="https://discord.com/invite/4ujSuJjg">Discord</a> - @𝙧𝙖𝙣𝙟𝙚𝙚𝙩𝙜𝙩𝙢</p>
-<p align="center">-📸 <a href="https://www.instagram.com/ranjeet.gtm?igsh=MWNiZGZwcW5nd2Ficw==">Instagram</a> - @𝙧𝙖𝙣𝙟𝙚𝙚𝙩.𝙜𝙩𝙢</p>
-<p align="center">-🌐 <a href="https://ranjitgautam.com.np">website</a> -𝙧𝙖𝙣𝙟𝙞𝙩𝙜𝙖𝙪𝙩𝙖𝙢.𝙘𝙤𝙢.𝙣𝙥</p>
+
+<p align="center">-📸 <a href="https://www.instagram.com/ranjeet.gtm?igsh=MWNiZGZwcW5nd2Ficw==">Instagram</a> - @ᵣₐₙⱼₑₑₜ.gₜₘ</p>
+<p align="center">-🌐 <a href="https://ranjitgautam.com.np">website</a> -𝓻𝓪𝓷𝓳𝓲𝓽𝓰𝓪𝓾𝓽𝓪𝓶.𝓬𝓸𝓶.𝓷𝓹</p>
 
 
 <h3 align="center"> ## 🔭 I'm currently working on </h3>   
       
-<p align="center">-  𝙈𝙮 𝙣𝙚𝙬 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨</p>                         
-<p align="center">- 𝙈𝙮 𝙉𝙚𝙭𝙩 𝘽𝙡𝙤𝙜</p>                           
-<p align="center">- 𝙈𝙮 𝘾𝙤𝙙𝙞𝙣𝙜 𝙎𝙠𝙞𝙡𝙡</p>                      
-<p align="center">- 𝙀𝙙𝙞𝙩𝙞𝙣𝙜 </p>                              
+<p align="center">-  𝓜𝔂 𝓷𝓮𝔀 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼</p>                                                    
+<p align="center">- 𝓜𝔂 𝓬𝓸𝓭𝓲𝓷𝓰 𝓼𝓴𝓲𝓵𝓵</p>                      
+<p align="center">- 𝓔𝓭𝓲𝓽𝓲𝓷𝓰 </p>                              
     
 
 
@@ -78,9 +76,7 @@ I'm a student of computer science and information technology 
 
 <p align="center">- 𝙅𝙖𝙫𝙖𝙨𝙘𝙧𝙞𝙥𝙩 </p>
 <p align="center">- 𝙍𝙚𝙖𝙘𝙩</p>
-<p align="center">- 𝙎𝙩𝙮𝙡𝙚𝙙 𝘾𝙤𝙢𝙥𝙤𝙣𝙚𝙣𝙩</p>
-<p align="center">- 𝙀𝙙𝙞𝙩𝙞𝙣𝙜 </p> 
-s
+
 
 
 
