@@ -67,15 +67,15 @@ I'm a student of computer science and information technology 
       
 <p align="center">-  𝓜𝔂 𝓷𝓮𝔀 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼</p>                                                    
 <p align="center">- 𝓜𝔂 𝓬𝓸𝓭𝓲𝓷𝓰 𝓼𝓴𝓲𝓵𝓵</p>                      
-<p align="center">- 𝓔𝓭𝓲𝓽𝓲𝓷𝓰 </p>                              
+                           
     
 
 
 
 <h3 align="center"> ## 🌱 I'm currently learning</h3>
 
-<p align="center">- 𝙅𝙖𝙫𝙖𝙨𝙘𝙧𝙞𝙥𝙩 </p>
-<p align="center">- 𝙍𝙚𝙖𝙘𝙩</p>
+<p align="center">- 𝓙𝓪𝓿𝓪𝓼𝓬𝓻𝓲𝓹𝓽</p>
+<p align="center">- 𝓡𝓮𝓪𝓬𝓽</p>
 
 
 
