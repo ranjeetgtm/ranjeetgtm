@@ -117,7 +117,7 @@ I'm a student of computer science and information technology 
 
 <h3 align="center">## Profile Views<p>
 
-[![Profile Views](https://img.shields.io/badge/Profile%20Views-147-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjeetgtm)</p></h3>
+[![Profile Views](https://img.shields.io/badge/Profile%20Views-147-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranjeetgtm)</p></h3>
 
 <h3 align="center">## Follow Me<p>
 
