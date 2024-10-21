@@ -107,8 +107,8 @@ I'm a student of computer science and information technology 
 <h3 align="center"> 🤝 Connect with me:<p>
 	
 	
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ranjeet.gtm)
- [![Facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIN=n&logoColor=white)](https://www.linkedin.com/in/ranjeetgtm)</p></h3>
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/ranjeet.gtm)
+ [![Facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIN=n&logoColor=black)](https://www.linkedin.com/in/ranjeetgtm)</p></h3>
 
 
  
