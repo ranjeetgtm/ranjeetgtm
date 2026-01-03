@@ -59,7 +59,7 @@ I'm a student of computer science and information technology 
 <h3 align="center">## 📬 How to reach me:</h3>
 
 
-<p align="center">-📸 <a href="https://www.instagram.com/ranjeet.gtm?igsh=MWNiZGZwcW5nd2Ficw==">Instagram</a> - @ᵣₐₙⱼₑₑₜ.gₜₘ</p>
+<p align="center">-📸 <a href="https://www.instagram.com/ranjeet.gtm?igsh=MWNiZGZwcW5nd2Ficw==">Instagram</a> - @gxrjt_</p>
 <p align="center">-🌐 <a href="https://ranjitgautam.com.np">website</a> -𝓻𝓪𝓷𝓳𝓲𝓽𝓰𝓪𝓾𝓽𝓪𝓶.𝓬𝓸𝓶.𝓷𝓹</p>
 
 
