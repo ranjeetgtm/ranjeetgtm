@@ -5,6 +5,7 @@ permissions:
 
 on:
   push:
+
   workflow_dispatch:
   schedule:
     - cron: "0 */1 * * *"
@@ -16,6 +17,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+
+      - name: Pull latest changes
+        run: git pull origin main  
 
       - name: Generate README
         uses: muesli/readme-scribe@master
