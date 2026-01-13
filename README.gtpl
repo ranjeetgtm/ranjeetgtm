@@ -1,9 +1,9 @@
 
 <p align="center">
   <img src="https://github.com/ranjeetgtm/ranjeetgtm/blob/main/Developer.gif" width="200px">
-</p
+</p>
 
-<h1 align="center"> <a href="https://prepverse.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&pause=1000&color=F74609FF&center=true&vCenter=true&repeat=false&width=500&lines=Hello++%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!%2C+I'm+Ranjeet" alt="Typing SVG"> </a> </h1>
+<h1 align="center"> <a href="https://prepverse.github.io"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&pause=1000&color=F74609FF&center=true&vCenter=true&repeat=false&width=500&lines=Hello++%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!%2C+I'm+Ranjeet" alt="Typing SVG" /> </a> </h1>
 
 
 
@@ -15,28 +15,14 @@
 
 
 <h2 align="center">
-I'm a student of computer science and information technology 
 
-</h2> 
-
+Im a student of computer science and information technology  </h2> 
 
 
-
-
-<h3 align="center">My Social
-
-
-
-
+<h3 align="center" > My Social </h3>
 
 
 <h1><p align="center"> <a href="https://www.github.com/ranjeetgtm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ranjeetgtm_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ranjeetgtm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </h1>
-
-
-
-
-
-
 
 
 <h3 align="center">## 🧰 Technical Skills <p align="center">
@@ -51,11 +37,6 @@ I'm a student of computer science and information technology 
 <p align="center"><img src="github-metrics.svg" /></p>
 
 
-
-
-
-
-
 <h3 align="center">## 📬 How to reach me:</h3>
 
 
@@ -67,8 +48,6 @@ I'm a student of computer science and information technology 
       
 <p align="center">-  𝓜𝔂 𝓷𝓮𝔀 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼</p>                                                    
 <p align="center">- 𝓜𝔂 𝓬𝓸𝓭𝓲𝓷𝓰 𝓼𝓴𝓲𝓵𝓵</p>                      
-                           
-    
 
 
 
@@ -76,18 +55,6 @@ I'm a student of computer science and information technology 
 
 <p align="center">- 𝓙𝓪𝓿𝓪𝓼𝓬𝓻𝓲𝓹𝓽</p>
 <p align="center">- 𝓡𝓮𝓪𝓬𝓽</p>
-
-
-
-
-
-
-
-
-
-
-
- 
 
 <h1 align="center">
 
