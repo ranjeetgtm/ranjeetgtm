@@ -16,7 +16,7 @@
 
 <h2 align="center">
 
-I'm a student of computer science and information technology  </h2> 
+I am a student of computer science and information technology  </h2> 
 
 
 <h3 align="center" > My Social </h3>
