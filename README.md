@@ -119,9 +119,10 @@
 </div>
 
 ---
-## 🎵 Currently Listening
+## 🎧 Currently Vibing To
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31osirl2yljs4i4ufx6bcdeqcnkm&cover_image=true&theme=default&bar_color=1DB954&bar_color_cover=true)](https://open.spotify.com/user/31osirl2yljs4i4ufx6bcdeqcnkm)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31osirl2yljs4i4ufx6bcdeqcnkm&theme=dark)
+
 
 
 <div align="center">
