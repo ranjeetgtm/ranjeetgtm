@@ -7,7 +7,7 @@
 </div>
 
 ---
-
+<div align="center">
 ## 💀 About Me
 
 
@@ -15,6 +15,7 @@
 🚀 Focused on React, Next.js & Tailwind CSS  
 🎯 Constantly learning & building
 
+</div>
 
 ---
 
