@@ -119,9 +119,15 @@
 </div>
 
 ---
+## 🎵 Currently Listening
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31osirl2yljs4i4ufx6bcdeqcnkm&cover_image=true&theme=default&bar_color=1DB954&bar_color_cover=true)](https://open.spotify.com/user/31osirl2yljs4i4ufx6bcdeqcnkm)
+
 
 <div align="center">
 
 ⚡ *"Code. Improve. Repeat."* ⚡
 
 </div>
+
+
