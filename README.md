@@ -119,9 +119,6 @@
 </div>
 
 ---
-## 🎧 Music & Coding Vibes
-
-<img src="https://img.shields.io/badge/Spotify-Active_Listener-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 
 
 
