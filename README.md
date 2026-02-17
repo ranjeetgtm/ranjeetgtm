@@ -119,9 +119,9 @@
 </div>
 
 ---
-## 🎧 Currently Vibing To
+## 🎧 Music & Coding Vibes
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31osirl2yljs4i4ufx6bcdeqcnkm&theme=dark)
+<img src="https://img.shields.io/badge/Spotify-Active_Listener-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 
 
 
