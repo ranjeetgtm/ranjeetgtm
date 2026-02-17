@@ -20,23 +20,30 @@
 
 ---
 
+<div align="center">
+  
 ## 🎓 Education
 
 📘 **+2 Science**  
 📗 **Bachelor Level**  
 💻 **BSc CSIT — 4th Year**
 
+</div>
 ---
+<div align="center">
 
 ## 🌍 Location
 
 📍 Rupandehi, Butwal 🇳🇵
 
+</div>
 ---
+
+<div align="center">
 
 ## 🚀 Tech Stack
 
-<div align="center">
+
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,git" />
 
