@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats (Live 🔥)
+## 📊 GitHub Stats 
 
 <div align="center">
 
