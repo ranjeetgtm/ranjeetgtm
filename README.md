@@ -7,13 +7,13 @@
 </div>
 
 ---
-
+<div align="center">
 ## 💀 About Me
 
 ⚡ Frontend Developer passionate about crafting modern & aesthetic UIs  
 🚀 Focused on React, Next.js & Tailwind CSS  
 🎯 Constantly learning & building
-
+</div>
 ---
 
 ## 🎓 Education
