@@ -66,30 +66,35 @@
 </div>
 
 ---
+<div align="center">
 
 ## 😈 Metrics Dashboard
 
-<div align="center">
+
 
 <img src="https://raw.githubusercontent.com/ranjeetgtm/ranjeetgtm/main/github-metrics.svg" />
 
 </div>
 
 ---
+<div align="center">
+
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+
 
 <img src="https://raw.githubusercontent.com/ranjeetgtm/ranjeetgtm/output/snake.svg" />
 
 </div>
 
 ---
+<div align="center">
+
 
 ## 🌐 Connect With Me
 
-<div align="center">
+
 
 <a href="https://github.com/ranjeetgtm">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
