@@ -2,7 +2,7 @@
 
 # ⚡ Hey, I'm Ranjit Gautam
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer" />
 
 </div>
 
