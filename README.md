@@ -12,8 +12,8 @@
 ## 💀 About Me
 
 
-⚡ Frontend Developer passionate about crafting modern & aesthetic UIs  
-🚀 Focused on React, Next.js & Tailwind CSS  
+⚡ Full Stack  Developer passionate about crafting modern & aesthetic UIs  
+🚀 Focused on React, Next.js ,Tailwind CSS , Python, Django,Django Restframework
 🎯 Constantly learning & building
 
 </div>
