@@ -9,7 +9,7 @@
 ---
 <div align="center">
   
-## 💀 About Me
+##  About Me
 
 
 ⚡ Full Stack  Developer passionate about crafting modern & aesthetic UIs and backend systems  
