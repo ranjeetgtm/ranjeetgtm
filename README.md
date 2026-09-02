@@ -45,7 +45,7 @@
 
 
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,typescript,python,django,git,postgresql" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,typescript,python,django,git,postgresql,vercel,adobe photoshop" />
 
 </div>
 
