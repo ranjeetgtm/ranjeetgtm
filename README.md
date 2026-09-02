@@ -12,7 +12,7 @@
 ## 💀 About Me
 
 
-⚡ Full Stack  Developer passionate about crafting modern & aesthetic UIs  
+⚡ Full Stack  Developer passionate about crafting modern & aesthetic UIs and backend systems  
 🚀 Focused on React, Next.js ,Tailwind CSS , Python, Django,Django Restframework
 🎯 Constantly learning & building
 
@@ -24,9 +24,9 @@
   
 ## 🎓 Education
 
-📘 **+2 Science**  
-📗 **Bachelor Level**  
-💻 **BSc CSIT — 4th Year**
+📘 **+2 Science**  📗 **Bachelor Level**  💻 **BSc CSIT — 4th Year**
+
+
 
 </div>
 ---
