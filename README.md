@@ -13,7 +13,7 @@
 
 
 ⚡ Full Stack  Developer passionate about crafting modern & aesthetic UIs and backend systems  
-🚀 Focused on React, Next.js ,Tailwind CSS , Python, Django,Django Restframework
+🚀 Focused on React, Next.js ,Tailwind CSS , node.js,express
 🎯 Constantly learning & building
 
 </div>
